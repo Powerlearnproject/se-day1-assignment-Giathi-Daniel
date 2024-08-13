@@ -59,5 +59,12 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+    - Refers to the crafting and designing of input prompts to get the best results from AI models.
+        -> Properly engineered prompts can improve the quality of AI-generated responses
+        -> Reduces mis-understanding and irrelevant responses from AI-models
+        -> Enhances usability: well-crafted prompts make AI-tools more effective and user friendly 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+    Vague Prompt: "Tell me about climate change"
+    Improved Prompt: "Describe the main causes of climate change, and ways to motigate its effects"
+    Exaplanation: It clearly outlines what aspect of climate change should be covered, main causes and provide a clear structure for the response.
