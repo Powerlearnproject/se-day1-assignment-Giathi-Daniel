@@ -1,0 +1,63 @@
+Software Engineering Day1 Assignment
+
+#Part 1: Introduction to Software Engineering
+
+Explain what software engineering is and discuss its importance in the technology industry.
+ - Software Engineering refers to the design, development, testing and maintance of high quality software applications
+ - It plays a crucial role in ensuring creation of software applications and systems that meet user's expectations and solve problems
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+ - Development of Programming languages. Programming languages such as Fortran and C were developed.
+ - Establishment of engineering as a discipline (1960s) - This marked the beginning of more disciplines approach to imporoving quality, and manegability of software systems
+
+List and briefly explain the phases of the Software Development Life Cycle.
+ - Requirements: User's needs and systems's requirements are collected during this strategies
+ - Design: Creating of user interfaces and detailed designs of software architecture. e.g Prototypes
+ - Implementation: Actual building of the software architecture takes place where the design is converted to code.
+ - Testing: This stage involves conducting various tests to the sytem to ensure it meets user's needs as well as quality standards
+ - Deployment: The software is now releases to the users or customers
+ - Maintance: It involves ongoing support and updares after the software has been deployed
+
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+ - Waterfall Methodoly
+    - It is a sequential approach with distinct phases 
+    - Requirements are gathered and finalized at the start, with a little room for change
+    - Effective to projects with clear, unchanging requirements
+
+- Agile Methodoly
+    - Iterative: development is divided into small iterations
+    - Requirements can change based on user feedback
+    - Suitable for complex projects with unclear requirements
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+    - Software Developer
+        -> resposible for writing codes and implementing software solutions
+    - Quality Assurance Engineer
+        -> Ensures quality of the software by designing and executing test plans
+    - Project Manager
+        -> Oversees the planning, execution and delivery of the software project
+
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+    - IDES (Visual Studio Code)
+        -> They provide comprehensive tools for writing, debugging and testing code
+    - VCS (Git)
+        -> Helps in tracking changes to source code overtime, maintaining a history of changes for tracking progress and evolution of codebase and they facilitate team work collaboration
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+    - Requirements may change during the development cycle leading to project delays
+        -> Implement agile practices to manage changing requirements effectively
+    - Software projects often face tight deadlines, which can result in compromised quality 
+        -> Use project management techniques to ensure effective plaaning, allocating resources efficiently
+    - Technical debt: Accrude from shortcuts or suboptimal solutions which can impend future development and long-term maintenance issues
+        -> Reguar refactoring code to improve its strucure and readability
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+    - Unit testing -> involves testing of individual modules of a software
+    - Integration testing -> involves testing interactions between different subsystems
+    - Acceptance testing -> involves testing the software against user requirements. 
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+Define prompt engineering and discuss its importance in interacting with AI models.
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
